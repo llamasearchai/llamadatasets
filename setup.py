@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="llamadatasets",
+    name="llamadatasets-llamasearch",
     version="0.1.0",
-    author="LlamaSearch.ai",
-    author_email="info@llamasearch.ai",
+    author="LlamaSearch AI",
+    author_email="nikjois@llamasearch.ai",
     description="Dataset management and processing library for LlamaSearch.ai applications",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/llamasearch/llamadatasets",
+    url="https://llamasearch.ai",
     project_urls={
         "Bug Tracker": "https://github.com/llamasearch/llamadatasets/issues",
         "Documentation": "https://docs.llamasearch.ai/llamadatasets",
