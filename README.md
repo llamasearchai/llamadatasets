@@ -24,7 +24,7 @@ pip install llamadatasets
 ### From source
 
 ```bash
-git clone https://github.com/llamasearch/llamadatasets.git
+git clone https://llamasearch.ai
 cd llamadatasets
 pip install -e .
 ```
